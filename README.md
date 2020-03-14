@@ -14,4 +14,4 @@ Import your AWS EC2 (instance and/or IAM) tags as Shell environment variables.
 
 ## Usage
 
-    `. ./import-tags.sh`
+    . ./import-tags.sh
